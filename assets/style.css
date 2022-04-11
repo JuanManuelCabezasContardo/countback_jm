@@ -1,0 +1,26 @@
+.count_back{
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 20%;
+    padding-bottom: 21%;
+}
+
+#demo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1000% !important;
+}
+
+footer{
+    vertical-align: middle;
+    text-align: right;
+}
+
+body {
+    background-image:url('img/849790.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+    color: #06b2bc;
+}
