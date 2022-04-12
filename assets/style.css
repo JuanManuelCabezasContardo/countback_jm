@@ -2,7 +2,7 @@
     text-align: center;
     vertical-align: middle;
     padding-top: 20%;
-    padding-bottom: 21%;
+    padding-bottom: 18%;
 }
 
 #demo{
@@ -15,6 +15,12 @@ footer{
     text-align: right;
 }
 
+#Titulo{
+    font-size: 500% !important;
+    text-justify: auto;
+    text-transform: capitalize;
+}
+
 body {
     background-image:url('img/849790.gif');
     background-size:100%;
@@ -22,5 +28,6 @@ body {
     background-attachment: fixed;
     height:100%;
     width:100%;
-    color: #06b2bc;
+    color: #00ffea;
+    text-shadow: 2px 0 0 #000,-2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;;
 }
